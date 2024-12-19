@@ -1,1 +1,1 @@
-requires waybar yazi wofi playerctl wpctl
+requires waybar yazi wofi playerctl wireplumber
