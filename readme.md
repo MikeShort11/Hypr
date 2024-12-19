@@ -1,1 +1,1 @@
-requires waybar yazi wofi playerctl wireplumber
+requires waybar yazi wofi playerctl wireplumber brightnessctl
