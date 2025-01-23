@@ -1,2 +1,1 @@
-*Mike Short's Hypr Config
-requires waybar yazi wofi playerctl wpctl
+requires waybar yazi wofi playerctl wireplumber brightnessctl
